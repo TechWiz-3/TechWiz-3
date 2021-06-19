@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello
+First of all, let's get this right. I am the ***origina**l* Tech W!z of the internet. Impostors, buzz off **and make me some coffee.**
+#### To everyone else, welcome.
 
 <!--
 **TechWiz-3/TechWiz-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
