@@ -1,5 +1,9 @@
 ## Hello
 --> First of all, let's get this right. I am the ***origina**l* Tech W!z of the internet. Impostors, buzz off **and get me my coffee.**
+
+Many know me as Tech W!z, others, as Zac the Wise, call me either and you will know me as a great ally.
+
+>Questions? Go ahead and ask!
 #### To everyone else, welcome.
 
 <!--
