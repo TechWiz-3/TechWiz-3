@@ -1,10 +1,14 @@
 ## Hello
---> First of all, let's get this right. I am the ***origina**l* Tech W!z of the internet. Impostors, buzz off **and get me my coffee.**
+--> Welcome
 
-Many know me as Tech W!z, others, as Zac the Wise, call me either and you will know me as a great ally.
+Many know me as Tech W!z, others, as Zac the Wise, call me either.  
+##### Certified Knowledge Questant
 
+I code discord bots.  
+I am studying Networking, Hardware, Linux, etc  
+Investigating pen-testing and Kali. 
 >Questions? Go ahead and ask!
-#### To everyone else, welcome.
+#### Thanks for poppin by boys
 
 <!--
 **TechWiz-3/TechWiz-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
