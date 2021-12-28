@@ -8,6 +8,11 @@ I code discord bots.
 I am studying Networking, Hardware, Linux, etc  
 Investigating pen-testing and Kali. 
 >Questions? Go ahead and ask!
+
+#### Flexing my awe inspiring stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Thanks for poppin by peeps
 
 <!--
@@ -26,4 +31,5 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical)
+
+
