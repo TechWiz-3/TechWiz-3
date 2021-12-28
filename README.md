@@ -11,7 +11,8 @@ Investigating pen-testing and Kali.
 
 #### Flexing my awe inspiring stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical&layout=compact)
+
 
 #### Thanks for poppin by peeps
 
