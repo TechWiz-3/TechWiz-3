@@ -23,7 +23,7 @@ Investigating pen-testing and Kali.
 
 #### Activity Graph
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github). 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github)
 
 
 #### Thanks for poppin by peeps
