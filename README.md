@@ -13,6 +13,7 @@ Investigating pen-testing and Kali.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical&layout=compact)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=radical&date_format=M%20j%5B%2C%20Y%5D)]
 
 
 #### Thanks for poppin by peeps
