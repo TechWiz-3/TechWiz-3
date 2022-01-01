@@ -17,6 +17,8 @@ Investigating pen-testing and Kali.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical&layout=compact). 
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github). 
+
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise)
 
 
