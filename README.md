@@ -5,8 +5,9 @@
 Many know me as Tech W!z, others, as Zac the Wise, call me either.  
 ##### Certified Knowledge Questant
 
-I code discord bots.  
+I like coding discord bots.  
 I am studying Networking, Hardware, Linux, etc  
+Learning a bit about cloud computing.
 Investigating pen-testing and Kali. 
 >Questions? Go ahead and ask!
 
