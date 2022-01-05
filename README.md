@@ -24,7 +24,7 @@ Would like to explore pen-testing and Kali.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical&layout=compact). 
 
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2). -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&layuout=compact&theme=dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&layuout=compact&theme=radical)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2)](https://github.com/anuraghazra/github-readme-stats)-->
 
