@@ -25,6 +25,10 @@ Would like to explore pen-testing and Kali.
 
 <!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2). -->
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&layuout=compact&theme=radical)
+[![Summary card](https://raw.githubusercontent.com/TechWiz-3/TechWiz-3/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1 repos per language](https://raw.githubusercontent.com/TechWiz-3/TechWiz-3/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/TechWiz-3/TechWiz-3/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/TechWiz-3/TechWiz-3/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Productive time SVG](https://raw.githubusercontent.com/TechWiz-3/TechWiz-3/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2)](https://github.com/anuraghazra/github-readme-stats)-->
 
