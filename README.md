@@ -14,7 +14,8 @@ Would like to explore pen-testing and Kali.
 >Questions? Go ahead and ask!  
 
 
-#### [![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144) Flexing my awe inspiring stats
+#### Flexing my awe inspiring stats
+[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144). 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical). 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=radical&date_format=M%20j%5B%2C%20Y%5D). 
