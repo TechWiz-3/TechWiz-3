@@ -23,6 +23,8 @@ Would like to explore pen-testing and Kali.
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise). 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr></hr>
 
 #### Activity Graph
