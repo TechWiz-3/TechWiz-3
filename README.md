@@ -6,10 +6,10 @@ Many know me as Tech W!z, others, as Zac the Wise, call me either :)
 ##### Certified Knowledge Questant
 
 I like coding discord bots.  
-I am studying Networking as well as basic computer hardware, Linux Operating Systems etc
-Learning a bit about cloud computing.
-Would like to explore pen-testing and Kali. 
->Questions? Go ahead and ask!
+I am studying Networking as well as basic computer hardware, Linux Operating Systems etc. 
+Learning a bit about cloud computing. 
+Would like to explore pen-testing and Kali.  
+>Questions? Go ahead and ask!   
 
 #### Flexing my awe inspiring stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=radical). 
