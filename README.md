@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-nerd+surrounded+by+nerds...;Will+eventually+become+a+nerd...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
 
 Many know me as Tech W!z, others, as Zac the Wise, call me either :)  
-##### Certified Knowledge Questant
+##### Certified Knowledge Questant [![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)
 
 I like coding discord bots.  
 Recently learnt some MySQL for a bot.  
