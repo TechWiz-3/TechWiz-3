@@ -15,8 +15,9 @@ Would like to explore pen-testing and Kali.
 **Open to any help or suggestions.**  
   
 >Questions? Go ahead and ask!  
+>Discord: Zac the Wise#1381
 
-<!-- SORRY, BUT IF YOU'RE READING THIS.... YOUR SUS-->
+<!-- SORRY, BUT IF YOU'RE READING THIS.... YOU'RE SUS-->
 #### Flexing my awe inspiring stats
 <!--[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)-->
 
