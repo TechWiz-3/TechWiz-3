@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-nerd+surrounded+by+nerds...;Will+eventually+become+a+nerd...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
 
 Many know me as Zac the Wise, others, as Tech W!z, call me either :)  
+
+**On a quest to write clean code**  
+
 ##### Certified Knowledge Questant
 
 I like coding discord bots.  
