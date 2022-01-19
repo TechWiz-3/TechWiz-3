@@ -4,10 +4,9 @@
 
 Many know me as Zac the Wise, others, as Tech W!z, call me either :)  
 
-**On a quest to write clean code**  
-
 ##### Certified Knowledge Questant
 
+On a quest to write clean code  
 I like coding discord bots.  
 Recently learnt some MySQL for a bot. [Check it out](https://github.com/TechWiz-3/newYearsResolutionBot)  
 Working on making my code clean and legible.  
