@@ -1,6 +1,6 @@
 ## Hello
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-nerd+surrounded+by+nerds...;Will+eventually+become+a+nerd...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-master+surrounded+by+masters...;Will+eventually+become+a+master...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
 
 Many know me as Zac the Wise, others, as Tech W!z, call me either :)  
 
