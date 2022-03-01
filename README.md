@@ -28,22 +28,6 @@ Would like to explore pen-testing and Kali.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=radical&layout=compact). 
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2). -->
-
-  ### 📊 Wakatime stats
-
-  <!-- https://github-readme-stats.vercel.app -->
-  <details>
-    <summary>💻 Wakatime Profile Stats</summary>
-    <a href="https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144"><img src="https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg" alt="Total time coded since Dec 28 2021" /></a>
-    <br>
-    <a href="https://github-readme-stats.vercel.app/"><img alt="Zac the Wise Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&layout=compact" height="192px"/></a>
-    <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&layuout=compact&theme=radical">-->
-<!-- the on ethat works ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&layuout=compact&theme=radical)-->
-</details>
-
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zacthewise&v=2)](https://github.com/anuraghazra/github-readme-stats)-->
-
 <hr></hr>
 
 #### Activity Graph
