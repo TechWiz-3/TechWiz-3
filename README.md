@@ -32,7 +32,7 @@ Would like to explore pen-testing and Kali.
 
 #### Activity Graph
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github)
+![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github)
 
 
 #### Thanks for poppin by peeps
