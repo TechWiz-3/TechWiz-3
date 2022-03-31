@@ -8,7 +8,7 @@ Many know me as Zac the Wise, others, as Tech W!z, call me either :)
 
 On a quest to write clean code  
 I like coding discord bots.  
-Recently learnt some MySQL for a bot. [Check it out](https://github.com/TechWiz-3/newYearsResolutionBot)  
+Recently learnt some MySQL for a bot. [Check it out](https://github.com/TechWiz-3/newYearResolutionBot)  
 I am studying networking, routing and switching, server configuragtion, security, virtualisation and cloud computing. Have studied Linux and basic computer hardware.
 Would like to explore pen-testing and Kali Linux.  
 
