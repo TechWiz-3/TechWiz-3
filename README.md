@@ -15,9 +15,11 @@ I am studying:
 - Security
 - Virtualisation
 - Cloud computing  
+
 Have studied:  
 - Linux
 - Basic computer hardware  
+
 Would like to explore:  
 - Penetration testing
 - Kali Linux  
