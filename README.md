@@ -9,18 +9,18 @@ Many know me as Zac the Wise, others, as Tech W!z, call me either :)
 On a quest to write clean code  
 Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)  
 I am studying:  
-- networking
-- routing and switching
-- server configuragtion
-- security
-- virtualisation
-- cloud computing
+- Networking
+- Routing and switching
+- Server configuragtion
+- Security
+- Virtualisation
+- Cloud computing  
 Have studied:  
 - Linux
-- basic computer hardware.
+- Basic computer hardware  
 Would like to explore:  
-- penetration testing
-- Kali Linux.  
+- Penetration testing
+- Kali Linux  
 
 **Open to any help or suggestions.**  
   
