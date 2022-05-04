@@ -7,18 +7,18 @@ Many know me as Zac the Wise, others, as Tech W!z, call me either :)
 ##### Certified Knowledge Questant
 
 On a quest to write clean code  
-Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)
-I am studying:
+Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)  
+I am studying:  
 - networking
 - routing and switching
 - server configuragtion
 - security
 - virtualisation
 - cloud computing
-Have studied:
+Have studied:  
 - Linux
 - basic computer hardware.
-Would like to explore:
+Would like to explore:  
 - penetration testing
 - Kali Linux.  
 
