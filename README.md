@@ -8,6 +8,7 @@ Many know me as Zac the Wise, others, as Tech W!z, call me either :)
 
 On a quest to write clean code  
 Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)  
+
 I am studying:  
 - Networking
 - Routing and switching
