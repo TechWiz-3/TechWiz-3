@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-master...;Surrounded+by+masters...;Will+eventually+become+a+master...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
 
+![Image](https://imgur.com/HjWITNu)
+
 Many know me as Zac the Wise, others, as Tech W!z, call me either :)  
 
 ##### Certified Knowledge Questant
