@@ -37,7 +37,7 @@ Would like to explore:
 <!-- bruh ur still reading lmao -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=outrun). 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=outrun&date_format=M%20j%5B%2C%20Y%5D). 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=radical&date_format=M%20j%5B%2C%20Y%5D). 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=shades-of-purple&layout=compact). 
 
