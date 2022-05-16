@@ -4,8 +4,6 @@
 
 ![Image](https://i.imgur.com/ERfeux3.png)  
 
-Many know me as Zac the Wise, others, as Tech W!z, call me either :)  
-
 ##### Certified Knowledge Questant
 
 On a quest to write clean code  
