@@ -25,9 +25,8 @@ Would like to explore:
 - Penetration testing
 - Kali Linux  
 
-**Open to any help or suggestions.**  
+**Open to any prs, issues, help, suggestions, questions etc.**  
   
->Questions? Go ahead and ask!  
 >Discord: Zac the Wise#1381
 
 <!-- SORRY, BUT IF YOU'RE READING THIS.... YOU'RE SUS-->
