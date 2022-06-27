@@ -9,22 +9,6 @@
 On a quest to write clean code  
 Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)  
 
-I am studying:  
-- Networking
-- Routing and switching
-- Server configuragtion
-- Security
-- Virtualisation
-- Cloud computing  
-
-Have studied:  
-- Linux
-- Basic computer hardware  
-
-Would like to explore:  
-- Penetration testing
-- Kali Linux  
-
 **Open to any prs, issues, help, suggestions, questions etc.**  
   
 >Discord: Zac the Wise#1381
