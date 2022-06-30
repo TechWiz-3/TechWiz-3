@@ -8,3 +8,4 @@
 - AWS Cloud Practitioner
 - Comptia A+
 - VCP
+- Azure Fundementals
