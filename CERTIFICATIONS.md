@@ -7,3 +7,4 @@
 - CCNP
 - AWS Cloud Practitioner
 - Comptia A+
+- VCP
