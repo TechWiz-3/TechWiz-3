@@ -7,14 +7,14 @@
 ##### Certified Knowledge Questant
 
 On a quest to write clean code  
-Recently been learning Bash and creating useful scripts. [Check them out](https://github.com/TechWiz-3/automation)  
+Recently been working on a project to label and emojify git commits using a simple CLI tool. [Check it out](https://github.com/TechWiz-3/git-commit-emojis)  
 
 **Open to any prs, issues, help, suggestions, questions etc.**  
   
 >Discord: Zac the Wise#1381
 
 <!-- SORRY, BUT IF YOU'RE READING THIS.... YOU'RE SUS-->
-#### Flexing my awe inspiring stats
+#### Flexing my awe inspiring stats xD
 <!--[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)-->
 
 <!-- bruh ur still reading lmao -->
