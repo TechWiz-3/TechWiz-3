@@ -14,7 +14,7 @@ Recently been working on a project to label and emojify git commits using a simp
 >Discord: Zac the Wise#1381
 
 <!-- SORRY, BUT IF YOU'RE READING THIS.... YOU'RE SUS-->
-#### Flexing my awe inspiring stats xD
+#### Some stats xD
 <!--[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)-->
 
 <!-- bruh ur still reading lmao -->
