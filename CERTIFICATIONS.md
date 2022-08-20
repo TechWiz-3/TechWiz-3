@@ -6,6 +6,7 @@
 - CCNA
 - CCNP
 - AWS Cloud Practitioner
+- AWS Developer Stream
 - Comptia A+
 <<<<<<< HEAD
 - Certified Kubernetes Administrator
