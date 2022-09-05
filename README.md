@@ -18,11 +18,11 @@ Recently been working on a project to label and emojify git commits using a simp
 <!--[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)-->
 
 <!-- bruh ur still reading lmao -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=jolly). 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=jolly) 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D). 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=jolly&layout=compact). 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWiz-3&theme=jolly&layout=compact) 
 
 <hr></hr>
 
