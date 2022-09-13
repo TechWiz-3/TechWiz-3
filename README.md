@@ -14,11 +14,13 @@ Recently been working on a project to label and emojify git commits using a simp
 >Discord: Zac the Wise#1381
 
 <!-- SORRY, BUT IF YOU'RE READING THIS.... YOU'RE SUS-->
-#### Some stats xD
-<!--[![wakatime](https://wakatime.com/badge/user/ca36faea-acc3-45d7-acc1-fb14861b9144.svg)](https://wakatime.com/@ca36faea-acc3-45d7-acc1-fb14861b9144)-->
+#### Some stats
 
 <!-- bruh ur still reading lmao -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWiz-3&theme=jolly) 
+
+<details>
+    <summary>More stats</summary>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechWiz-3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D) 
 
@@ -30,6 +32,7 @@ Recently been working on a project to label and emojify git commits using a simp
 
 ![Zac's github activity graph](https://activity-graph.herokuapp.com/graph?username=TechWiz-3&theme=github)
 
+</details>
 
 #### Thanks for poppin by peeps
 
