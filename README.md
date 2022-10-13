@@ -6,8 +6,8 @@
 
 ##### Certified Knowledge Questant
 
-On a quest to write clean code  
-Recently been working on a project to label and emojify git commits using a simple CLI tool. [Check it out](https://github.com/TechWiz-3/git-commit-emojis)  
+Continous Learning (CL).   
+Recently been working on beautiful Python TUI's. Find a full list of my open-source contributions [here](https://github.com/TechWiz-3/open-source)
 
 **Open to any prs, issues, help, suggestions, questions etc.**  
   
