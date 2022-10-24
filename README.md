@@ -4,6 +4,8 @@
 
 ![Image](https://i.imgur.com/ERfeux3.png)  
 
+<img width="674" alt="Screen Shot 2022-10-24 at 2 04 40 pm" src="https://user-images.githubusercontent.com/75515581/197440647-96bdd8e6-86d7-4de5-84f9-90bbd09ab04d.png">
+
 ##### Certified Knowledge Questant
 
 Continous Learning (CL).   
