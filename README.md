@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C321F7&lines=Welcome;A+non-master...;Surrounded+by+masters...;Will+eventually+become+a+master...;Or+at+least+seem+like+one)](https://git.io/typing-svg)
 
 <img alt="Profile" src="https://user-images.githubusercontent.com/75515581/197440830-6fbb9c38-5eb5-40bf-8fcf-c7593cecd0df.png">
+<img alt="Screen Shot 2022-10-25 at 9 20 35 pm" src="https://user-images.githubusercontent.com/75515581/197748830-bb1fa483-0cb9-4adc-ab5b-490711e39f7d.png">
+
 
 ##### Certified Knowledge Questant
 
