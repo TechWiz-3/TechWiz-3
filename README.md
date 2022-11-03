@@ -9,7 +9,7 @@
 Continous Learning (CL).   
 Recently been working on beautiful Python TUI's. Find a full list of my open-source contributions [here](https://github.com/TechWiz-3/open-source)
 
-**Open to any prs, issues, help, suggestions, questions etc.**  
+**Open to any PRs, issues, help, suggestions, questions etc.**  
   
 >Discord: Zac the Wise#1381
 
@@ -34,7 +34,7 @@ Recently been working on beautiful Python TUI's. Find a full list of my open-sou
 
 </details>
 
-#### Thanks for poppin by peeps
+#### Thanks for poppin by :thumbsup:
 
 <!--
 **TechWiz-3/TechWiz-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
