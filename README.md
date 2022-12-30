@@ -8,7 +8,7 @@
 ##### Certified Knowledge Questant
 
 Continous Learning (CL).   
-Recently been working on beautiful Python TUI's. Find a full list of my open-source contributions [here](https://github.com/TechWiz-3/open-source)
+Recently been working on beautiful [kadoo-cli](https://github.com/TechWiz-3/kadoo-cli). Find a full list of my open-source contributions [here](https://github.com/TechWiz-3/open-source)
 
 **Open to any PRs, issues, help, suggestions, questions etc.**  
   
